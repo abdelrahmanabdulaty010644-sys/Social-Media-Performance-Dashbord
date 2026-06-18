@@ -1,3 +1,4 @@
+
 # 📈 Social Media Engagement Analysis: Decoding the Post-Length Paradox
 
 ## 🎯 Project Overview
@@ -8,8 +9,9 @@ The primary objective was to investigate an analytical paradox: **Why do platfor
 ---
 
 ## 🖥️ Dashboard Preview
-*(📸 Capture a clean screenshot of your Power BI or Excel dashboard for this project, upload it to the repository, and link it below)*
-![Social Media Analysis Dashboard](dashboard-preview.png)
+Below is a comprehensive view of the developed interactive Social Media Performance Dashboard:
+
+![Social Media Analysis Dashboard](https://raw.githubusercontent.com/abdelrahmanabdulaty010644-sys/Social-Media-Performance-Dashbord/main/Screenshot%202026-06-18%20161311.png)
 
 ---
 
