@@ -1,5 +1,5 @@
 
-# 📈 Social Media Engagement Analysis: Decoding the Post-Length Paradox
+# 📈 Social Media Engagement Analysis
 
 ## 🎯 Project Overview
 In social media analytics, absolute metrics like millions of views can often mask the true performance of content strategies. This data analysis project evaluates the performance of content across three major social media platforms: **Facebook, Instagram, and Twitter**. 
